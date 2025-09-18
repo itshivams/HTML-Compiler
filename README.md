@@ -29,23 +29,9 @@ Visit https://myselfshivams.github.io/HTML-Compiler/ to code live!
   cd html-compiler
 ```
 
-3. Install dependencies:
 
-  ```bash
-  npm install
-```
+3. Access the compiler interface in your web browser:
 
-### Usage
-
-1. Run the compiler:
-```bash
-npm start
-```
-
-2. Access the compiler interface in your web browser:
-```bash
- http://localhost:3000
-```
 
 
 
