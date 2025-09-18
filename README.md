@@ -13,14 +13,14 @@ The **HTML Compiler** is a powerful tool designed to streamline the process of c
 
 ## Preview
 
-Visit https://myselfshivams.github.io/HTML-Compiler/ to code live!
+Visit https://itshivams.github.io/HTML-Compiler/ to code live!
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/myselfshivams/HTML-Compiler.git
+   git clone https://github.com/itshivams/HTML-Compiler.git
 
 
 2. Navigate to the project directory:
